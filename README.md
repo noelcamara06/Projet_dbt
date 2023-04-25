@@ -32,3 +32,4 @@ Il permet de versionner le code, à réaliser des tests de qualité de données 
 
 
 ### Monsieur j’ai eu un petit problème dans le partie test j’avais pas select le listing_id et le reviewer_name dans mon fichier src_reviews.sql ce qui fait que mon test ne passait pas.Et pour remédier à cela j’ai du les supprimer de mon fichier schema.yml pour que test passe.
+## Mais je vous ai mis à côté des copies des fichiers src_reviews copy.sql et schema copy.yml avec les champs listing_id et reviewer_name.
